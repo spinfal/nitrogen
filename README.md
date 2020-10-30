@@ -5,7 +5,7 @@ would you look at this, it is another nitro generator that uses `random` and `st
 good question.
 
 ## how do i run this?
-clone this repo or click <a href="">here</a>.<br>
+clone this repo or click <a href="https://github.com/spinfal/nitrogen/archive/master.zip">here to download</a>.<br>
 the requirement(s):
 - termcolor
 

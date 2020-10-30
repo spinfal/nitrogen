@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "pybrowser"
+name = "nitrogen"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "a simple and very cool nitro generator that gets the job done"
+authors = ["Spinfal <spinfal@atheist.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
