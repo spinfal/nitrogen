@@ -38,7 +38,8 @@ while True:
       return ''.join(random_list)
   code = 'https://discord.gift/' + get_random_string(codecount).lower()
 
-  print(code)
+  colors = ['cyan', 'green', 'magenta', 'yellow', 'blue', 'cyan', 'green', 'magenta', 'yellow', 'blue']
+  print(cl(code, random.choice(colors)))
 
   f = open(nitrotype + 'Codes.txt', 'a+')
   f.write(code + '\n')
